@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="TaskManagementModule/TaskManagementModule.csproj" />
+  <Project Path="TaskManagementModule.Tests/TaskManagementModule.Tests.csproj" />
 </Solution>
+
